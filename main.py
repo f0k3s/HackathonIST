@@ -9,7 +9,7 @@ import dbhandler
 
 
 """
-редактирую код
+редактирую
 """
 
 SECRET_HANDSHAKE = "SECRET_HANDSHAKE"
