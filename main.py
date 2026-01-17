@@ -7,6 +7,11 @@ import json
 
 import dbhandler
 
+
+"""
+редактирую код
+"""
+
 SECRET_HANDSHAKE = "SECRET_HANDSHAKE"
 SERVER_ADDRESS = ("95.142.47.122", 8686)
 MAX_CONNECTIONS = 50
